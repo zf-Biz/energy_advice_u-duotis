@@ -1,1 +1,1 @@
-# energy_advice_u-duotis
+This project provides tools for retrieving and analyzing historical and forecast weather data using the Data class. The functionality includes calculating key weather statistics, identifying weather patterns, and visualizing temperature trends. It uses the Meteo.lt API to access weather information.
